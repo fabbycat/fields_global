@@ -1,0 +1,19 @@
+name: 'Shared global fields'
+machine_name: 'fields_shared_global'
+description: 'A collection of globally shared fields that can be reused in modules and when managing content through the Drupal administration interface.'
+# lifecycle:
+# lifecycle_link:
+# project status url:
+package: Site structure
+type: module
+core_version_requirement: ^11
+php: 8.3
+dependencies:
+  - drupal:field
+  - drupal:node
+  - drupal:text
+# test_dependencies:
+# configure:
+# configure_parameters:
+# hidden:
+# required:
