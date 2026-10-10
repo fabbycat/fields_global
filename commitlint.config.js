@@ -20,6 +20,10 @@ export default {
                 // Alterations to git configuration
                 'git',
 
+
+                // Scaffolding directories, files etc.
+                'scaffold',
+
                 // Development tools
                 'tools',
 
