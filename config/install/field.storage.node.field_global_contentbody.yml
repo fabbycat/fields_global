@@ -5,8 +5,8 @@ dependencies:
     - node
     - field
     - text
-id: node.field_shared_global_contentbody
-field_name: field_shared_global_contentbody
+id: node.field_global_contentbody
+field_name: field_global_contentbody
 entity_type: node
 type: text_with_summary
 settings:

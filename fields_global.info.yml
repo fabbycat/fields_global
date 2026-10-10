@@ -1,5 +1,5 @@
 name: 'Shared global fields'
-machine_name: 'fields_shared_global'
+machine_name: 'fields_global'
 description: 'A collection of globally shared fields that can be reused in modules and when managing content through the Drupal administration interface.'
 # lifecycle:
 # lifecycle_link:
