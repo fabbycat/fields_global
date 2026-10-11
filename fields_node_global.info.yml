@@ -1,6 +1,6 @@
-name: 'Shared global fields'
-machine_name: 'fields_global'
-description: 'A collection of globally shared fields that can be reused in modules and when managing content through the Drupal administration interface.'
+name: 'Global node fields'
+machine_name: 'fields_node_global'
+description: 'A collection of globally shared fields for content types (node). These field types can be reused in modules and when managing content through the Drupal administration interface.'
 # lifecycle:
 # lifecycle_link:
 # project status url:

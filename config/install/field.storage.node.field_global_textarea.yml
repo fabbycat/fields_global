@@ -5,8 +5,8 @@ dependencies:
     - node
     - field
     - text
-id: node.field_global_contentbody
-field_name: field_global_contentbody
+id: node.field_global_textarea
+field_name: field_global_textarea
 entity_type: node
 type: text_with_summary
 settings:

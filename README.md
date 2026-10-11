@@ -1,3 +1,3 @@
-# Global shared fields
+# Global node fields
 
-A collection of globally shared fields that can be used in modules and when managing content through the Drupal administration interface.
+A collection of globally shared fields for content types (node). These field types can be reused in modules and when managing content through the Drupal administration interface.
